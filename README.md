@@ -1,6 +1,8 @@
 # Rasmon Project 경희몬의 ppt와 시연 이미지
 
-#### Rasmon Project는 라즈베리파이와 
+### Rasmon Project는 라즈베리파이와 파이썬의 PyGame 기능을 활용한 환경 감응형 게임입낟.
+### 여러분은 자신의 경희몬을 주위의 환경에 따라 키우고 육성할 수 있습니다.
+### 라즈베리파이의 온도센서, 습도센서, 조도센서에 대응해 캐릭터가 반응하고 진화합니다.
 
 ## spec presentation
 spec_ppt_2019 - 경희몬 키우기_v5.pptx
